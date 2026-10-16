@@ -1,0 +1,9 @@
+[{
+  "modid": "autorod",
+  "name": "AutoRod",
+  "description": "Distance-gated auto rod module.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "authorList": [],
+  "useDependencyInformation": false
+}]
